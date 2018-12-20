@@ -2,3 +2,7 @@
 2)git init
 3)git remote add origin "link"
 4)git pull origin master
+
+5)Youcan think of a branch like a pointer to a specific commit (use example new feature in in a commit  - master (branch))
+	-Local brances
+	-remote-tracking branches  
