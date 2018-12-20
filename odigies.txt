@@ -5,4 +5,16 @@
 
 5)Youcan think of a branch like a pointer to a specific commit (use example new feature in in a commit  - master (branch))
 	-Local brances
+<<<<<<< HEAD
 	-remote-tracking branches  
+=======
+	-remote-tracking branches 
+6)git branch, git checkout
+
+7)Merging is a way to combine the work of different branches together. Allows to branch off,develop a new feature
+  & combine it back in. Always merge back to master wich always has production quality code. 
+  *Yparxei kai to stash ama 8elw na kanw kapoia alli doulia apo8ikeuw to branch kapou kai to 3anapairnw meta 
+8)git merge branch1  (enw ime mesa sto master - ).REMEMER! to be checked out in my destination branch
+	-gia na ferw ti doulia kapoiou branch se auto pou briskomai
+>>>>>>> changed odigies.txt
+TELOS
