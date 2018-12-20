@@ -17,4 +17,6 @@
 8)git merge branch1  (enw ime mesa sto master - ).REMEMER! to be checked out in my destination branch
 	-gia na ferw ti doulia kapoiou branch se auto pou briskomai
 >>>>>>> changed odigies.txt
+
+9)git checkout 738fce370334 revert.txt gurisa se pisw commit me bash ta prwta psifia tou hash gia ena arxeio
 TELOS
